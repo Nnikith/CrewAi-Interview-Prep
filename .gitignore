@@ -1,0 +1,8 @@
+.env
+venv/
+.ipynb_checkpoints/
+__pycache__/
+.git_commit_msg.txt
+GITCommit.bat
+Initiate.bat
+Shutdown.bat
